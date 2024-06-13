@@ -10,6 +10,7 @@ NEVER EVER STORE THESE ON GITHUB
 - store sensitive information
 - store tokens/keys etc
 - Personal secrets
+- Your past life
 
 # Additional Support
 - Follow Us on GitHub.com/mysterioux
